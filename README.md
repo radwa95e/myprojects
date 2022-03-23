@@ -1,7 +1,5 @@
 # Fuel Economy 
-Ë
-
-Ë‚
+
 Fuel Economy Guide Database files.
 
 The ZIP'd versions of these files are named ??DATA.ZIP (e.g., 83DATA.ZIP)
